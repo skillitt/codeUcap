@@ -10,3 +10,5 @@ CREATE TABLE IF NOT EXISTS mock_data (
     Description TEXT,
     reserve TEXT
 );
+
+--Do these need to be integers?
